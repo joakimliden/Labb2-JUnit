@@ -18,10 +18,4 @@ public class Calculator {
         return a / b;
     }
 
-//    public static void main(String[] args) {
-//
-//      System.out.println("2 + 2 is " + new Calculator().add(2, 3) + ".");
-//    }
-
-
 }
